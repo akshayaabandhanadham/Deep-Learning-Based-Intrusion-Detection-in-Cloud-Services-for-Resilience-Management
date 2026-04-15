@@ -1,4 +1,6 @@
 # Deep Learning Based Intrusion Detection with Power BI Analytics
+## 🎥 Execution Video
+[Watch Project Execution](https://drive.google.com/file/d/1-6ydSODV1STgsfLMX_HV_xAQQx8MrH6I/view?usp=sharing)
 
 ## Project Overview
 
